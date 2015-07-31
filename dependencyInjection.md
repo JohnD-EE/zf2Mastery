@@ -1,6 +1,12 @@
 #Dependency Injection - DI
 DI is integral to ZF2, separating the creation of objects and their dependencies - Inversion of Control (Martin Fowler)
 Dependency Inversion Principle - code should depend upon abstractions - decoupling from lower level implementatins
+Inject your dependencies into your classes instead of instantiating an object within a class
+
+3 types of injection:
+* Constructor Injection
+* Setter Injection 
+* Interface Injection
 
 *Dependency Injection enables loose coupling and loose coupling makes code more maintainable* - Mark Seemann
 Maintainability, Extensibility, Testability
