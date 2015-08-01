@@ -1,6 +1,6 @@
 #Doctrine Association Mapping
 
-[Making more sense of the Doctrine Association Mapping docs](http://doctrine-orm.readthedocs.org/en/latest/reference/association-mapping.html)
+Making more sense of the [Doctrine Association Mapping docs](http://doctrine-orm.readthedocs.org/en/latest/reference/association-mapping.html)
 Association mapping is a way of defining relationships between entities. Doctrine uses these associations to create foreign key relationships  
 and join tables database.
 
@@ -65,7 +65,7 @@ class Address
 
 **Many to Many, Self Referencing**
 
-##Mappiong Defaults
+##Mapping Defaults
 **Mapping Defaults**
 
 ##Collections
